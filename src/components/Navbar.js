@@ -24,24 +24,7 @@ export default function Navbar() {
               <GiHamburgerMenu onClick={() => setNavbarState(true)} />
             )}
           </div>
-        </div>
-
-        {/* <ul>
-          <li>
-            <a href="#home">Home</a>
-          </li>
-          <li>
-            <a href="#services">Services</a>
-          </li>
-          <li>
-            <a href="#recommend">Our Mission</a>
-          </li>
-          <li>
-            <a href="#testimonials">Join Today</a>
-          </li>
-        </ul> */}
-
-        
+        </div>        
       <Scrollspy
         className="scrollspy" items={ ['home', 'services', 'recommended', 'testomonials'] }
             currentClassName="active" >
