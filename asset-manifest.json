@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/react-website/static/css/main.c9ed2637.chunk.css",
+    "main.js": "/react-website/static/js/main.42e1f876.chunk.js",
+    "main.js.map": "/react-website/static/js/main.42e1f876.chunk.js.map",
+    "runtime-main.js": "/react-website/static/js/runtime-main.f630ffa8.js",
+    "runtime-main.js.map": "/react-website/static/js/runtime-main.f630ffa8.js.map",
+    "static/js/2.d6f987c6.chunk.js": "/react-website/static/js/2.d6f987c6.chunk.js",
+    "static/js/2.d6f987c6.chunk.js.map": "/react-website/static/js/2.d6f987c6.chunk.js.map",
+    "static/js/3.3e5cbbf5.chunk.js": "/react-website/static/js/3.3e5cbbf5.chunk.js",
+    "static/js/3.3e5cbbf5.chunk.js.map": "/react-website/static/js/3.3e5cbbf5.chunk.js.map",
+    "index.html": "/react-website/index.html",
+    "static/css/main.c9ed2637.chunk.css.map": "/react-website/static/css/main.c9ed2637.chunk.css.map",
+    "static/js/2.d6f987c6.chunk.js.LICENSE.txt": "/react-website/static/js/2.d6f987c6.chunk.js.LICENSE.txt",
+    "static/media/Deal.c27e71b1.svg": "/react-website/static/media/Deal.c27e71b1.svg",
+    "static/media/Hologram_Planet_by_nuva.f6658731.mov": "/react-website/static/media/Hologram_Planet_by_nuva.f6658731.mov",
+    "static/media/getstarted.1706d79a.jpg": "/react-website/static/media/getstarted.1706d79a.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f630ffa8.js",
+    "static/js/2.d6f987c6.chunk.js",
+    "static/css/main.c9ed2637.chunk.css",
+    "static/js/main.42e1f876.chunk.js"
+  ]
+}
